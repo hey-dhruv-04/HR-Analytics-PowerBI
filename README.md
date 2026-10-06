@@ -4,32 +4,39 @@ Project Overview
 
 This project focuses on analyzing employee data and identifying patterns related to employee attrition and workforce performance.
 
-Key KPIs
-Total Employees
-Total Attrition
-Attrition Rate
-Average Compensation
-Average Length of Service
-Analysis
-Department-wise employee analysis
-Attrition analysis
-Employee trends
-Compensation analysis
-Length of service analysis
-Tools Used
-Microsoft Power BI
-Power Query
-DAX
-Data Modeling
-Microsoft Excel
-Skills Demonstrated
-Data Cleaning and Transformation
-Data Modeling
-DAX Measures
-Data Visualization
-KPI Development
-Interactive Dashboard Design
-Business Analysis
+## Key KPIs
+
+- Total Employees
+- Total Attrition
+- Attrition Rate
+- Average Compensation
+- Average Length of Service
+
+## Analysis
+
+- Department-wise Employee Analysis
+- Attrition Analysis
+- Employee Trends
+- Compensation Analysis
+- Length of Service Analysis
+
+## Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Microsoft Excel
+
+## Skills Demonstrated
+
+- Data Cleaning and Transformation
+- Data Modeling
+- DAX Measures
+- Data Visualization
+- KPI Development
+- Interactive Dashboard Design
+- Business Analysis
 
 
 ## Dashboard Preview
